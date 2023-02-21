@@ -1,4 +1,4 @@
-# Tableau_Projects
+# Tableau Projects
 
 Welcome to the Tableau Projects!
 
